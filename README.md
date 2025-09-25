@@ -6,7 +6,4 @@ cli tools for scafolding projects for multiple project types
 https://github.com/Fern135/G.E.S.A.
 
 # FasGen fast api project generator
-https://github.com/Fern135/FasGen
-
-# jsbg java spring boot generator 
-https://github.com/Fern135/jsbg
+https://github.com/Fern135/FasGen 
